@@ -19,7 +19,7 @@ Given a list of links to youtube channels, It collects the video id's of all vid
 ## Steps To Recreate the Project
 
 What you will need:
-1. Docker[]
+1. Docker
 2. GCP or AWS or Azure account (create a service account with permissions for Bigquery and GCS )
 3. [Prefect](https://www.prefect.io/)
 4. dbt
