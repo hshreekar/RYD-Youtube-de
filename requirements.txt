@@ -1,0 +1,5 @@
+selenium
+pandas
+requests
+bs4
+prefect-gcp[cloud_storage]
